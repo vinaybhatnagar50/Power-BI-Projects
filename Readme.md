@@ -14,4 +14,4 @@ To confirm it was installed correctly you can run the command without any pareme
 
 ```bash
 pbiviz
-```
+``
