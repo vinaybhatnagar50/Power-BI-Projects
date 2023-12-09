@@ -15,9 +15,3 @@ To confirm it was installed correctly you can run the command without any pareme
 ```bash
 pbiviz
 ```
-
-
-
-## Usage
-
-Learn more about using these tools in the [Usage Guide](usage.md)
