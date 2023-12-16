@@ -22,14 +22,14 @@ Step 10: Start Analyzing Data.
 The Employee Attrition Dashboard is a data visualization project that provides key insights into employee attrition within an organization. The dashboard displays essential Key Performance Indicators (KPIs) to help stakeholders and decision-makers understand the workforce dynamics and make informed decisions.
 
 ## Key Performance Indicators are:
-Count of Employee: Total number of employees in the organization.
+1.Count of Employee: Total number of employees in the organization.
 
-Attrition: The number of employees who have left the organization.
+2.Attrition: The number of employees who have left the organization.
 
-Attrition Rate: The percentage of employees who have left, calculated against the total number of employees.
+3.Attrition Rate: The percentage of employees who have left, calculated against the total number of employees.
 
-Average Salary: The average salary of all employees.
+4.Average Salary: The average salary of all employees.
 
-Average Age: The average age of the workforce.
+5.Average Age: The average age of the workforce.
 
-Average Years: The average number of years employees have been with the organization.
+6.Average Years: The average number of years employees have been with the organization.
